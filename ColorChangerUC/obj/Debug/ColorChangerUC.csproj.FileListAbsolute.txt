@@ -1,0 +1,10 @@
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChangerUC\ColorChangerUC\bin\Debug\ColorChangerUC.exe.config
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChangerUC\ColorChangerUC\bin\Debug\ColorChangerUC.exe
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChangerUC\ColorChangerUC\bin\Debug\ColorChangerUC.pdb
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChangerUC\ColorChangerUC\obj\Debug\ColorChangerUC.Form1.resources
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChangerUC\ColorChangerUC\obj\Debug\ColorChangerUC.Properties.Resources.resources
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChangerUC\ColorChangerUC\obj\Debug\ColorChangerUC.UC.resources
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChangerUC\ColorChangerUC\obj\Debug\ColorChangerUC.csproj.GenerateResource.Cache
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChangerUC\ColorChangerUC\obj\Debug\ColorChangerUC.exe
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChangerUC\ColorChangerUC\obj\Debug\ColorChangerUC.pdb
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChangerUC\ColorChangerUC\obj\Debug\ColorChangerUC.csprojResolveAssemblyReference.cache
